@@ -1,0 +1,9 @@
+C:\Users\ERMAN\source\repos\WindowsFormsApp2\SortingLib\bin\Debug\netstandard2.0\SortingLib.deps.json
+C:\Users\ERMAN\source\repos\WindowsFormsApp2\SortingLib\bin\Debug\netstandard2.0\SortingLib.dll
+C:\Users\ERMAN\source\repos\WindowsFormsApp2\SortingLib\bin\Debug\netstandard2.0\SortingLib.pdb
+C:\Users\ERMAN\source\repos\WindowsFormsApp2\SortingLib\obj\Debug\netstandard2.0\SortingLib.csprojAssemblyReference.cache
+C:\Users\ERMAN\source\repos\WindowsFormsApp2\SortingLib\obj\Debug\netstandard2.0\SortingLib.csproj.CoreCompileInputs.cache
+C:\Users\ERMAN\source\repos\WindowsFormsApp2\SortingLib\obj\Debug\netstandard2.0\SortingLib.AssemblyInfoInputs.cache
+C:\Users\ERMAN\source\repos\WindowsFormsApp2\SortingLib\obj\Debug\netstandard2.0\SortingLib.AssemblyInfo.cs
+C:\Users\ERMAN\source\repos\WindowsFormsApp2\SortingLib\obj\Debug\netstandard2.0\SortingLib.dll
+C:\Users\ERMAN\source\repos\WindowsFormsApp2\SortingLib\obj\Debug\netstandard2.0\SortingLib.pdb

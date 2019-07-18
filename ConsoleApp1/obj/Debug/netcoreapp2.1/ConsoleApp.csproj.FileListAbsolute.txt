@@ -1,0 +1,14 @@
+D:\Workspace\SimpleSortingAlgorithms\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp.deps.json
+D:\Workspace\SimpleSortingAlgorithms\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp.runtimeconfig.json
+D:\Workspace\SimpleSortingAlgorithms\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp.runtimeconfig.dev.json
+D:\Workspace\SimpleSortingAlgorithms\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp.dll
+D:\Workspace\SimpleSortingAlgorithms\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp.pdb
+D:\Workspace\SimpleSortingAlgorithms\ConsoleApp1\bin\Debug\netcoreapp2.1\SortingLib.dll
+D:\Workspace\SimpleSortingAlgorithms\ConsoleApp1\bin\Debug\netcoreapp2.1\SortingLib.pdb
+D:\Workspace\SimpleSortingAlgorithms\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp.csprojAssemblyReference.cache
+D:\Workspace\SimpleSortingAlgorithms\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Workspace\SimpleSortingAlgorithms\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp.AssemblyInfoInputs.cache
+D:\Workspace\SimpleSortingAlgorithms\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp.AssemblyInfo.cs
+D:\Workspace\SimpleSortingAlgorithms\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp.csproj.CopyComplete
+D:\Workspace\SimpleSortingAlgorithms\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp.dll
+D:\Workspace\SimpleSortingAlgorithms\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp.pdb
