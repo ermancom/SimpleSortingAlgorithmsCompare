@@ -7,3 +7,12 @@ C:\Users\ERMAN\source\repos\WindowsFormsApp2\SortingLib\obj\Debug\netstandard2.0
 C:\Users\ERMAN\source\repos\WindowsFormsApp2\SortingLib\obj\Debug\netstandard2.0\SortingLib.AssemblyInfo.cs
 C:\Users\ERMAN\source\repos\WindowsFormsApp2\SortingLib\obj\Debug\netstandard2.0\SortingLib.dll
 C:\Users\ERMAN\source\repos\WindowsFormsApp2\SortingLib\obj\Debug\netstandard2.0\SortingLib.pdb
+D:\Workspace\SimpleSortingAlgorithms\SortingLib\bin\Debug\netstandard2.0\SortingLib.deps.json
+D:\Workspace\SimpleSortingAlgorithms\SortingLib\bin\Debug\netstandard2.0\SortingLib.dll
+D:\Workspace\SimpleSortingAlgorithms\SortingLib\bin\Debug\netstandard2.0\SortingLib.pdb
+D:\Workspace\SimpleSortingAlgorithms\SortingLib\obj\Debug\netstandard2.0\SortingLib.csprojAssemblyReference.cache
+D:\Workspace\SimpleSortingAlgorithms\SortingLib\obj\Debug\netstandard2.0\SortingLib.csproj.CoreCompileInputs.cache
+D:\Workspace\SimpleSortingAlgorithms\SortingLib\obj\Debug\netstandard2.0\SortingLib.AssemblyInfoInputs.cache
+D:\Workspace\SimpleSortingAlgorithms\SortingLib\obj\Debug\netstandard2.0\SortingLib.AssemblyInfo.cs
+D:\Workspace\SimpleSortingAlgorithms\SortingLib\obj\Debug\netstandard2.0\SortingLib.dll
+D:\Workspace\SimpleSortingAlgorithms\SortingLib\obj\Debug\netstandard2.0\SortingLib.pdb

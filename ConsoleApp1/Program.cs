@@ -10,6 +10,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine($"{GapFormatted("n=10")}  {GapFormatted("n=100")}  {GapFormatted("n=1000")}  {GapFormatted("n=10000")}  {GapFormatted("n=100000")}  ");
+            Console.WriteLine("Elapsed Ticks");
             Console.WriteLine();
             for (int i = 0; i < 5; i++)
             {
